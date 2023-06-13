@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/item_service.dir/item_main.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/item_main.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/item_main.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/item_service.dir/config/config.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/config/config.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/config/config.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/item_service.dir/database/database.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/database.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/database.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/item_service.dir/database/item.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/item.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/item.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/cart_service.dir/cart_main.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/cart_main.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/cart_main.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/cart_service.dir/config/config.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/config/config.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/config/config.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/cart_service.dir/database/database.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/database.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/database.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/cart_service.dir/database/cart.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/cart.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/cart.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/ProjectManagement.dir/user_main.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/user_main.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/user_main.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/ProjectManagement.dir/config/config.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/config/config.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/config/config.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/ProjectManagement.dir/database/database.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/database.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/database.cpp"
+},
+{
+  "directory": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+  "command": "/usr/bin/g++  -DPOCO_ENABLE_CPP11 -DPOCO_ENABLE_CPP14 -DPOCO_HAVE_FD_EPOLL -DPOCO_OS_FAMILY_UNIX -DXML_DTD -D_DEBUG -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_REENTRANT -D_THREAD_SAFE -D_XOPEN_SOURCE=500 -I/usr/include/mysql -I/usr/local/include/mysql -I/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build  -g   -Wall -Wextra -pedantic -Werror -std=gnu++17 -o CMakeFiles/ProjectManagement.dir/database/user.cpp.o -c /home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/user.cpp",
+  "file": "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/database/user.cpp"
+}
+]

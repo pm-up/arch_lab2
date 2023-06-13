@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hl_server",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProjectManagement::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProjectManagement-Debug-b73f712fc1d26da533c0.json",
+					"name" : "ProjectManagement",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cart_service::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cart_service-Debug-27b2023838b9a017148f.json",
+					"name" : "cart_service",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "item_service::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-item_service-Debug-2ee45588f82f5d29dff8.json",
+					"name" : "item_service",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build",
+		"source" : "/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

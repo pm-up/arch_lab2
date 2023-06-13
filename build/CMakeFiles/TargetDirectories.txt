@@ -1,0 +1,5 @@
+/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build/CMakeFiles/edit_cache.dir
+/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build/CMakeFiles/item_service.dir
+/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build/CMakeFiles/rebuild_cache.dir
+/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build/CMakeFiles/cart_service.dir
+/home/poisoned-monkey/Desktop/Attachments_alcuzmichev@yandex.ru_2022-06-07_18-04-08/ProjectManagement-master/build/CMakeFiles/ProjectManagement.dir
